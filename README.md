@@ -1,2 +1,2 @@
 # github_example
-Just for testing purposes
+Just for testing how to create a repository
